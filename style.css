@@ -1,4 +1,9 @@
-body{
+body
+{
   background-color: black;
   color:white;
+}
+.demos
+{
+ margin-left:10px; 
 }
