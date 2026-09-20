@@ -11,8 +11,10 @@ body
 {
  margin-left:50px; 
 }
-hr
+hr 
 {
-  margin: 1rem 0; 
-  opacity: 0.15;
+  border: none;
+  border-top: 1px dashed var(--pico-muted-border-color);
+  margin: 1.5rem 0;
+  background: transparent;
 }
