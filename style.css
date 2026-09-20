@@ -16,5 +16,5 @@ hr
   border: none;
   border-top: 3px dashed var(--pico-muted-border-color);
   margin: 1.5rem 0;
-  opacity: 0.5;
+  opacity: 1;
 }
