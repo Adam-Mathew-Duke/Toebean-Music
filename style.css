@@ -3,9 +3,16 @@ body
   background-color: black;
   color:white;
 }
-.demos
-{
- margin-left:50px; 
+.demos {
+display: flex;
+flex-direction: column;
+gap: 1.5rem;
+}
+.demo-item {
+display: flex;
+align-items: center;
+justify-content: space-between;
+gap: 1rem;
 }
 .releases
 {
