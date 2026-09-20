@@ -13,7 +13,7 @@ body
 }
 hr 
 {
-  border: none;
+  border: 4px;
   border-top: 1px dashed var(--pico-muted-border-color);
   margin: 1.5rem 0;
   background: transparent;
