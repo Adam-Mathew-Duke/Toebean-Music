@@ -11,3 +11,9 @@ body
 {
  margin-left:50px; 
 }
+hr
+{
+  border: none;
+  border-top: 1px solid var(--pico-muted-border-color);
+  margin: 1.5rem 0;
+}
