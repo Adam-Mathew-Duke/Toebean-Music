@@ -35,11 +35,23 @@ CSS
   margin-left: 50px;
   display: flex;
   align-items: center;
-  justify-content: space-between;
-  gap: 20px;
+  gap: 25px;
   max-width: 1000px;
-  width: calc(100% - 50px); 
-  margin-bottom: 1rem;
+  width: calc(100% - 50px);
+  margin-bottom: 1.5rem;
+}
+.demo-item > *:nth-child(1) {
+  flex-shrink: 0;
+  width: 160px;
+}
+.demo-item > audio,
+.demo-item > *:nth-child(2) {
+  flex-shrink: 0;
+  width: 240px;
+}
+.demo-item > *:nth-child(3) {
+  flex: 1;
+  min-width: 0;
 }
 .releases
 {
