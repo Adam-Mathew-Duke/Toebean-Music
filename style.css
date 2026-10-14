@@ -28,7 +28,7 @@ h2{
   align-items: center;
   justify-content: space-between;
   gap: 20px;
-  max-width: 600px;
+  max-width: 1000px;
   margin-bottom: 1rem;
 }
 .releases
