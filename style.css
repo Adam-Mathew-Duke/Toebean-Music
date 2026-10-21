@@ -36,7 +36,7 @@ CSS
   display: flex;
   align-items: center;
   gap: 25px;
-  max-width: 1000px;
+  max-width: 1500px;
   width: calc(100% - 50px);
   margin-bottom: 1.5rem;
 }
